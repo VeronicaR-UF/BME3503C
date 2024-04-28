@@ -1,4 +1,4 @@
-# BME3503C
+# BME3503C - Brain Tumor Segmentation Using Image Processing Techniques
 Final Project for Computer Applications for BME
 
 For options 1 and 2 of this code, we used data from the Medical Segmentation Decathlon for brain tumors.
