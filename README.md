@@ -4,7 +4,7 @@ Final Project for Computer Applications for BME
 For options 1 and 2 of this code, we used data from the Medical Segmentation Decathlon for brain tumors.
 It can be downloaded from this link: http://medicaldecathlon.com/dataaws/
 
-The first folder from this data_set (Task01_BrainTumour) should be in the same directory as your Main.m file.
+The first folder from this data_set (Task01_BrainTumour) should be in the same directory as your Main.m file. The SliceDecider and nii2png_BT functions should also be in the sime directory as Main.m so that they can properly be called. 
 
 The nii2png_BT function is a slight modification from the nii2png.m code created by Alexander Laurence.
 The original code can be found at this link: https://www.mathworks.com/matlabcentral/fileexchange/71567-nifti-image-converter
