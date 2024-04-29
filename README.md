@@ -12,3 +12,5 @@ The original code can be found at this link: https://www.mathworks.com/matlabcen
 The SliceDecider often does not choose the best slice for the MRI scan, so there may be issues seeing a tumor. To see a slice where the tumor is visible, I recommend looking at scans 235, 484, 135, and 435 for correct visualizations.
 
 When doing option 3, it is important to properly type in the filepath and filename for the code to run, so please try to type it in the same format as the example. There may be some issues when attempting to input a 3D nifti scan as well, such as with the image registration or conversion to png. 
+
+COLOR.png and Reference_Scan.png are required for the last 2 steps of our analysis of the image, which is the image registration and tumor location detection.
